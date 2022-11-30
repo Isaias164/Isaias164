@@ -43,6 +43,6 @@
 
 # Contact
 
-### [Linkedin](URL "https://www.linkedin.com/in/isaias-sosa-2286811b9/")
+### [Linkedin]("https://www.linkedin.com/in/isaias-sosa-2286811b9/")
 
-### [CV](URL "https://www.canva.com/design/DAERA4uOa6A/snITO4bXKroDZ08qhjk00g/view?utm_content=DAERA4uOa6A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton")
+### [CV]("https://www.canva.com/design/DAERA4uOa6A/snITO4bXKroDZ08qhjk00g/view?utm_content=DAERA4uOa6A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton")

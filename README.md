@@ -43,6 +43,5 @@
 
 # Contact
 
-[Linkedin](https://www.linkedin.com/in/isaias-sosa-2286811b9/)
-
-[CV](https://www.canva.com/design/DAERA4uOa6A/snITO4bXKroDZ08qhjk00g/view?utm_content=DAERA4uOa6A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<a href="https://www.linkedin.com/in/isaias-sosa-2286811b9/" target="_blank">Linkedin</a>
+<a href="https://www.canva.com/design/DAERA4uOa6A/snITO4bXKroDZ08qhjk00g/view?utm_content=DAERA4uOa6A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">CV</a>

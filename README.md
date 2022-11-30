@@ -8,30 +8,30 @@
 * Creation of commands.
 * integration django_rest_framework, Simple JWT among other modules and   frameworks.
 
-### ** Python **
+### Python 
 
 * concurrency 
 * Design patterns (decorator and adapter).
 * Creating and modifying libraries.
 * Script creation to automate tasks.
 
-### ** MySql **
+### MySql 
 
 * Creation of query for data analysis.
 * Creation of functions and stored procedures.
 * Creation of views.
 
-### ** Linux **
+### Linux
 
 * comandos basicos
 
-### ** Docker **
+### Docker 
 
 * Creation and publish images
 * Docker file construction
 
 
-### ** Git **
+### Git
 
 * Reversing, merge among others commands
 

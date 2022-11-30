@@ -1,6 +1,12 @@
+# Professional Experience
+
+**Backend Developer (Remote)** *September 2021 - Present*
+
+###### Service integrations. Creation of commands for data migrations and other functionalities. Modeling of tables through ORM. Creation of endpoints. SQL query for analysis. Creation and consultation of endpoints.
+
 # Skills
 
-### ** Django **
+### Django
 
 * Table modeling.
 * Endpoint creation and queries.

@@ -43,10 +43,10 @@
 
 # Software projects
 
-* [Bull-gym](url "https://github.com/Isaias164/bull-gym")
-* [PyFile] (url "https://github.com/Isaias164/scripts/tree/main/PyFile")
-* [DatePy] (url "https://github.com/Isaias164/scripts/tree/main/Actualizar%20hora%20y%20fecha")
-* [codewars] (url "https://github.com/Isaias164/coderwars")
+* [Bull-gym](https://github.com/Isaias164/bull-gym)
+* [PyFile] (https://github.com/Isaias164/scripts/tree/main/PyFile)
+* [DatePy] (https://github.com/Isaias164/scripts/tree/main/Actualizar%20hora%20y%20fecha)
+* [codewars] (https://github.com/Isaias164/coderwars)
 
 # Contact
 

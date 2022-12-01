@@ -2,7 +2,7 @@
 
 **Backend Developer (Remote)** *September 2021 - Present*
 
-###### Service integrations. Creation of commands for data migrations and other functionalities. Modeling of tables through ORM. Creation of endpoints. SQL query for analysis. Creation and consultation of endpoints.
+##### Service integrations. Creation of commands for data migrations and other functionalities. Modeling of tables through ORM. Creation of endpoints. SQL query for analysis. Creation and consultation of endpoints.
 
 # Skills
 
@@ -29,7 +29,7 @@
 
 ### Linux
 
-* comandos basicos
+* basic commands
 
 ### Docker 
 
@@ -40,6 +40,13 @@
 ### Git
 
 * Reversing, merge among others commands
+
+# Software projects
+
+* [Bull-gym](url "https://github.com/Isaias164/bull-gym")
+* [PyFile] (url "https://github.com/Isaias164/scripts/tree/main/PyFile")
+* [DatePy] (url "https://github.com/Isaias164/scripts/tree/main/Actualizar%20hora%20y%20fecha")
+* [codewars] (url "https://github.com/Isaias164/coderwars")
 
 # Contact
 

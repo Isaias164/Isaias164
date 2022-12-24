@@ -12,11 +12,11 @@
 * Endpoint creation and queries.
 * Signal creation.
 * Creation of commands.
-* integration django_rest_framework, Simple JWT among other modules and   frameworks.
+* Integration django_rest_framework, Simple JWT among other modules and   frameworks.
 
 ### Python 
 
-* concurrency 
+* Concurrency 
 * Design patterns (decorator and adapter).
 * Creating and modifying libraries.
 * Script creation to automate tasks.
@@ -29,7 +29,7 @@
 
 ### Linux
 
-* basic commands
+* Basic commands
 
 ### Docker 
 

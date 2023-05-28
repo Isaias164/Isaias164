@@ -7,8 +7,9 @@
 # Teaching experience
 
 **I teach my skills on 2 platforms**
-*[Tus Clases](https://www.tusclases.com.ar/profesores-programacion-online/emprendedor-autodidacta-muchas-ganas-ensenar-mis-conocimientos-goya-1026254.aspx)* **(2021-present)**
-*[Superprof](https://www.superprof.com.ar/puedo-ensenarte-programacion-estructurada-python-programacion-orientada-objetos-python-django-restframework.html)* **(2021-present)**
+
++ *[Tus Clases](https://www.tusclases.com.ar/profesores-programacion-online/emprendedor-autodidacta-muchas-ganas-ensenar-mis-conocimientos-goya-1026254.aspx)* **(2021-present)**
++ *[Superprof](https://www.superprof.com.ar/puedo-ensenarte-programacion-estructurada-python-programacion-orientada-objetos-python-django-restframework.html)* **(2021-present)**
 
 # Skills
 

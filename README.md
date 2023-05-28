@@ -4,6 +4,12 @@
 
 ##### Service integrations. Creation of commands for data migrations and other functionalities. Modeling of tables through ORM. Creation of endpoints. SQL query for analysis. Creation and consultation of endpoints.
 
+# Teaching experience
+
+**I teach my skills on 2 platforms**
+*[Tus Clases](https://www.tusclases.com.ar/profesores-programacion-online/emprendedor-autodidacta-muchas-ganas-ensenar-mis-conocimientos-goya-1026254.aspx)* **(2021-present)**
+*[Superprof](https://www.superprof.com.ar/puedo-ensenarte-programacion-estructurada-python-programacion-orientada-objetos-python-django-restframework.html)* **(2021-present)**
+
 # Skills
 
 ### Django

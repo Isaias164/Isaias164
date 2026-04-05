@@ -45,9 +45,10 @@ I teach programming on the following platforms:
 - MySQL
 - Redis
 
-**Tools**
+**Tools/Infrastructure**
 - Linux
 - Git
+- S3
 
 ---
 

@@ -1,68 +1,73 @@
-# Professional Experience
+# Backend Developer
 
-**Backend Developer (Remote)** *September 2021 - Present*
+## Profile
 
-##### Service integrations. Creation of commands for data migrations and other functionalities. Modeling of tables through ORM. Creation of endpoints. SQL query for analysis. Creation and consultation of endpoints.
+Backend Developer with more than 4 years of experience building APIs and automation using Python and Django. Specialized in third-party integrations, data processing, and SQL query optimization. Experienced in working with remote teams and maintaining scalable production systems.
 
-# Teaching experience
+Focus areas:
 
-**I teach my skills on 2 platforms**
+- REST API development
+- Process automation
+- Data processing
+- SQL optimization
+- Third-party integrations
 
-+ *[Tus Clases](https://www.tusclases.com.ar/profesores-programacion-online/emprendedor-autodidacta-muchas-ganas-ensenar-mis-conocimientos-goya-1026254.aspx)* **(2021-present)**
-+ *[Superprof](https://www.superprof.com.ar/puedo-ensenarte-programacion-estructurada-python-programacion-orientada-objetos-python-django-restframework.html)* **(2021-present)**
+---
 
-# Skills
+## Work Experience
 
-### Django
+**Castorapp (Remote)**  
+Sep 2021 – Dec 2023  
 
-* Table modeling.
-* Endpoint creation and queries.
-* Signal creation.
-* Creation of commands.
-* Integration django_rest_framework, Simple JWT among other modules and   frameworks.
+**Flexza (Remote)**  
+Jan 2024 – Mar 2026
 
-### Python 
+---
 
-* Concurrency 
-* Design patterns (decorator and adapter).
-* Creating and modifying libraries.
-* Script creation to automate tasks.
+## Teaching Experience
 
-### MySql 
+I teach programming on the following platforms:
 
-* Creation of query for data analysis.
-* Creation of functions and stored procedures.
-* Creation of views.
+- [Tus Clases](https://www.tusclases.com.ar/profesores-programacion-online/emprendedor-autodidacta-muchas-ganas-ensenar-mis-conocimientos-goya-1026254.aspx) (2021 – Present)
+- [Superprof](https://www.superprof.com.ar/puedo-ensenarte-programacion-estructurada-python-programacion-orientada-objetos-python-django-restframework.html) (2021 – Present)
 
-### Linux
+---
 
-* Basic commands
+## Skills
 
-### Docker 
+**Backend**
+- Python
+- Django
+- Django REST Framework
 
-* Creation and publish images
-* Docker file construction
+**Databases**
+- PostgreSQL
+- MySQL
+- Redis
 
+**Tools**
+- Linux
+- Git
 
-### Git
+---
 
-* Reversing, merge among others commands
+## Projects
 
-# Software projects
+- [Bull-gym](https://github.com/Isaias164/bull-gym)
+- [Codewars](https://github.com/Isaias164/coderwars)
+- [PyFile](https://github.com/Isaias164/scripts/tree/main/PyFile)
+- [DatePy](https://github.com/Isaias164/scripts/tree/main/Actualizar%20hora%20y%20fecha)
 
-* [Bull-gym](https://github.com/Isaias164/bull-gym)
-* [codewars](https://github.com/Isaias164/coderwars)
-* [PyFile](https://github.com/Isaias164/scripts/tree/main/PyFile)
-* [DatePy](https://github.com/Isaias164/scripts/tree/main/Actualizar%20hora%20y%20fecha)
+---
 
-# Language
+## Languages
 
-* Spanish **(Native)**
-* English **(A1)**
+- Spanish (Native)
+- English (Basic – improving)
 
+---
 
-# Contact
+## Contact
 
-[Linkedin](https://www.linkedin.com/in/isaias-sosa-2286811b9/)
-
-[CV](https://www.canva.com/design/DAERA4uOa6A/snITO4bXKroDZ08qhjk00g/view?utm_content=DAERA4uOa6A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [LinkedIn](https://www.linkedin.com/in/isaias-sosa-2286811b9/)
+- [CV](https://canva.link/km4yue3p00w6h5l)
